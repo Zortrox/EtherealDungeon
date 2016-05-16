@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<World>
+  <Item>
+    <name>silver key</name>
+    <properties>
+      <property>metal</property>
+      <property>silver</property>
+    </properties>
+    <displayChar>)</displayChar>
+	<weight>1</weight>
+    <value>10</value>
+    <rarity>5</rarity>
+  </Item>
+  
+  <Gold>
+  	<name>gold</name>
+	<displayChar>$</displayChar>
+  </Gold>
+  
+  <Consumable>
+  	<name>oil flask</name>
+	<displayChar>=</displayChar>
+  </Consumable>
+  
+  <Potion>
+  	<name>potion of healing</name>
+	<displayChar>p</displayChar>
+  </Potion>
+  
+  <Scroll>
+    <name>scroll of fireball</name>
+    <properties>
+      <property>paper</property>
+      <property>magical</property>
+    </properties>
+    <displayChar>?</displayChar>
+	<weight>1</weight>
+    <value>250</value>
+    <rarity>30></rarity>
+  </Scroll>
+  
+  <Weapon>
+    <name>longsword</name>
+    <properties>
+       <property>metal</property>
+    </properties>
+	<displayChar>/</displayChar>
+	<type>sword</type>
+    <damage>10</damage>
+    <accuracy>2</accuracy>
+    <weight>20</weight>
+	<value>60</value>
+    <rarity>10</rarity>
+  </Weapon>
+
+  <Armor>
+     <name>chainmail</name>
+     <properties>
+        <property>metal</property>
+     </properties>
+	 <displayChar>]</displayChar>
+	 <type>medium</type>
+     <slot>chest</slot>
+     <armorValue>8</armorValue>
+     <weight>60</weight>
+     <value>80</value>
+     <rarity>10</rarity>
+     
+  </Armor>
+</World>

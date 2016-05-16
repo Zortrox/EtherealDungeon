@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<World>
+  <Creature>
+    <name>zergling</name>
+    <properties>
+      <property>quadruped</property>
+    </properties>
+    <level>1</level>
+    <maxHP>10</maxHP>
+    <displayChar>z</displayChar>
+  </Creature>
+  
+  <Creature>
+    <name>kobold</name>
+    <properties>
+      <property>humanoid</property>
+    </properties>
+    <level>1</level>
+    <maxHP>8</maxHP>
+    <displayChar>k</displayChar>
+  </Creature>
+  
+  <Creature>
+    <name>goblin</name>
+    <properties>
+      <property>goblinoid</property>
+      <property>humanoid</property>
+    </properties>
+    <level>1</level>
+    <maxHP>8</maxHP>
+    <displayChar>g</displayChar>
+  </Creature>
+  
+  <Creature>
+    <name>kobold shaman</name>
+    <properties>
+      <property>humanoid</property>
+    </properties>
+    <level>2</level>
+    <maxHP>12</maxHP>
+    <displayChar>k</displayChar>
+  </Creature>
+  
+  <Creature>
+    <name>dwarf</name>
+    <properties>
+      <property>humanoid</property>
+    </properties>
+    <level>2</level>
+    <maxHP>15</maxHP>
+    <displayChar>d</displayChar>
+  </Creature>
+  
+  <Creature>
+    <name>goblin shaman</name>
+    <properties>
+      <property>goblinoid</property>
+      <property>humanoid</property>
+    </properties>
+    <level>2</level>
+    <maxHP>12</maxHP>
+    <displayChar>g</displayChar>
+  </Creature>
+  
+  <Creature>
+    <name>orc</name>
+    <properties>
+      <property>orcish</property>
+      <property>humanoid</property>
+    </properties>
+    <level>2</level>
+    <maxHP>15</maxHP>
+    <displayChar>o</displayChar>
+  </Creature>
+  
+  <Creature>
+    <name>orc shaman</name>
+    <properties>
+      <property>orcish</property>
+      <property>humanoid</property>
+    </properties>
+    <level>3</level>
+    <maxHP>20</maxHP>
+    <displayChar>o</displayChar>
+  </Creature>
+  
+  <Creature>
+    <name>warg</name>
+    <properties>
+      <property>quadruped</property>
+    </properties>
+    <level>3</level>
+    <maxHP>25</maxHP>
+    <displayChar>q</displayChar>
+  </Creature>
+  
+  <Creature>
+    <name>Ultralisk</name>
+    <properties>
+      <property>humanoid</property>
+    </properties>
+    <level>5</level>
+    <maxHP>35</maxHP>
+    <displayChar>U</displayChar>
+  </Creature>
+  
+  <Creature>
+    <name>red dragon</name>
+    <properties>
+      <property>dragon</property>
+    </properties>
+    <level>20</level>
+    <maxHP>100</maxHP>
+    <displayChar>D</displayChar>
+  </Creature>
+</World>
