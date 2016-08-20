@@ -1,4 +1,4 @@
-# EtherealDungeon
+# EtherealFortress
 A simple rogue-like game I made.  Biggest feature is you can ghost through walls.
 
 # About
